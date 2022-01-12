@@ -1,7 +1,7 @@
 <?php header('Content-Type: application/json');
 
 
-$servername = 'inventory-db';
+$servername = '35.225.150.74';
 $username = 'root';
 $password = 'lab-password';
 $database = 'inventory';
